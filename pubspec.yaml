@@ -69,7 +69,7 @@ dependencies:
   universal_html: 2.2.4
   flutter_markdown: 0.6.18+3
   package_info_plus: 5.0.1
-  flutter_branch_sdk: 6.8.0
+  flutter_branch_sdk: 7.0.4
   flutter_svg: 2.0.9
   appsflyer_sdk: 6.12.2
   advertising_id: 2.6.0
