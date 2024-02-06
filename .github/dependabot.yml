@@ -4,3 +4,15 @@ updates:
       directory: "/"
       schedule:
         interval: "weekly"
+      groups:
+        major-production-dependencies:
+          dependency-type: "production"
+          update-types:
+            - "major"
+        minor-production-dependencies:
+          dependency-type: "production"
+          update-types:
+            - "minor"
+            - "patch"
+        dev-dependencies:
+          dependency-type: "development"
