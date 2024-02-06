@@ -361,22 +361,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.1.0"
-  device_info_plus:
-    dependency: transitive
-    description:
-      name: device_info_plus
-      sha256: "86add5ef97215562d2e090535b0a16f197902b10c369c558a100e74ea06e8659"
-      url: "https://pub.dev"
-    source: hosted
-    version: "9.0.3"
-  device_info_plus_platform_interface:
-    dependency: transitive
-    description:
-      name: device_info_plus_platform_interface
-      sha256: d3b01d5868b50ae571cd1dc6e502fc94d956b665756180f7b16ead09e836fd64
-      url: "https://pub.dev"
-    source: hosted
-    version: "7.0.0"
   device_preview:
     dependency: "direct main"
     description:
@@ -409,14 +393,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.5"
-  extension:
-    dependency: transitive
-    description:
-      name: extension
-      sha256: be3a6b7f8adad2f6e2e8c63c895d19811fcf203e23466c6296267941d0ff4f24
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.6.0"
   fake_async:
     dependency: transitive
     description:
@@ -779,15 +755,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.4.9"
-  flutter_segment:
-    dependency: "direct main"
-    description:
-      path: "."
-      ref: master
-      resolved-ref: "972f77ee5235c9e1b585ae5714e81ab9867c5fae"
-      url: "https://github.com/ozzen-tech/flutter-segment"
-    source: git
-    version: "3.13.2"
   flutter_svg:
     dependency: "direct main"
     description:
@@ -870,63 +837,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.0+1"
-  gql_dedupe_link:
-    dependency: transitive
-    description:
-      name: gql_dedupe_link
-      sha256: e5359dd0c7a38f95e2b12f6ab305989a4e30028e4032825c8e9f610150999c69
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.0.4-alpha+1705114623057"
-  gql_error_link:
-    dependency: transitive
-    description:
-      name: gql_error_link
-      sha256: "93901458f3c050e33386dedb0ca7173e08cebd7078e4e0deca4bf23ab7a71f63"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.0+1"
-  gql_exec:
-    dependency: transitive
-    description:
-      name: gql_exec
-      sha256: "394944626fae900f1d34343ecf2d62e44eb984826189c8979d305f0ae5846e38"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.1.1-alpha+1699813812660"
-  gql_http_link:
-    dependency: transitive
-    description:
-      name: gql_http_link
-      sha256: "1f922eed1b7078fdbfd602187663026f9f659fe9a9499e2207b5d5e01617f658"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.1+1"
-  gql_link:
-    dependency: transitive
-    description:
-      name: gql_link
-      sha256: "63941513a688d856546f0c3218e7ad94d47fc6e04662dcdb06de92a4cde2d7db"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.1-alpha+1705114622987"
-  gql_transform_link:
-    dependency: transitive
-    description:
-      name: gql_transform_link
-      sha256: "0645fdd874ca1be695fd327271fdfb24c0cd6fa40774a64b946062f321a59709"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.0"
-  graphql:
-    dependency: "direct main"
-    description:
-      path: "packages/graphql"
-      ref: "ozzen-graphql-v5.2.0-beta.7"
-      resolved-ref: c2d50c84aa66e464628c611bf523c6a8c0346ede
-      url: "https://github.com/ozzen-tech/graphql-flutter"
-    source: git
-    version: "5.2.0-beta.7"
   graphs:
     dependency: transitive
     description:
@@ -1287,14 +1197,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.5.0"
-  normalize:
-    dependency: transitive
-    description:
-      name: normalize
-      sha256: "8a60e37de5b608eeaf9b839273370c71ebba445e9f73b08eee7725e0d92dbc43"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.8.2+1"
   open_filex:
     dependency: "direct main"
     description:
@@ -1399,15 +1301,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.2.1"
-  pdfx:
-    dependency: "direct main"
-    description:
-      path: "packages/pdfx"
-      ref: d637108a2a6e3e97a70304f00f1eda9511fb4f92
-      resolved-ref: d637108a2a6e3e97a70304f00f1eda9511fb4f92
-      url: "https://github.com/ScerIO/packages.flutter"
-    source: git
-    version: "2.5.0"
   permission_handler:
     dependency: "direct main"
     description:
@@ -2077,14 +1970,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.1.4"
-  win32_registry:
-    dependency: transitive
-    description:
-      name: win32_registry
-      sha256: "41fd8a189940d8696b1b810efb9abcf60827b6cbfab90b0c43e8439e3a39d85a"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.1.2"
   xdg_directories:
     dependency: transitive
     description:

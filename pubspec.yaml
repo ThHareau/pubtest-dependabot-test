@@ -34,20 +34,10 @@ dependencies:
   uuid: 4.3.3
   checkdigit: 0.3.1
   flutter_platform_widgets: 6.0.2
-  graphql:
-    git:
-      url: https://github.com/ozzen-tech/graphql-flutter
-      ref: ozzen-graphql-v5.2.0-beta.7
-      path: packages/graphql
   cupertino_icons: 1.0.6
   http: 1.2.0
   share_plus: 7.2.1
   intercom_flutter: 8.0.8
-  # TODO : flutter_segment is discountinued, solution should be https://github.com/segmentio/analytics_flutter
-  flutter_segment:
-    git: 
-      url: https://github.com/ozzen-tech/flutter-segment
-      ref: master
   contacts_service: 0.6.3
   hive: 2.2.3
   hive_flutter: 1.1.0
@@ -61,12 +51,6 @@ dependencies:
   file_picker: 6.1.1
   flutter_genius_scan: 4.21.0
   open_filex: 4.3.4
-  # Issue does not published on pub.dev yet https://github.com/ScerIO/packages.flutter/issues/448#issuecomment-1813991815
-  pdfx:
-      git:
-        url: 'https://github.com/ScerIO/packages.flutter'
-        ref: 'd637108a2a6e3e97a70304f00f1eda9511fb4f92'
-        path: packages/pdfx
   sentry: 7.14.0
   sentry_flutter: 7.14.0
   gql: 1.0.0+1
